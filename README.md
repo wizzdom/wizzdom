@@ -1,21 +1,20 @@
-### Hi there, I'm Dom - aka [WIZZDOM][website] 👋
+### Hi there, I'm Dom - aka [wizzdom][website] 👋
 
-- 🔭 I’m currently working on a bunch of cool projects
-- 🌱 I’m currently learning everything 🤣
-- ⚡ Fun fact: I love to game and code
+- 🐃🐧 GNU/Linux Enjoyer
+- 🌱 Currently learning everything 🤣
+- 🕘 UTC 0/UTC +1
 
 ### Connect with me:
 
-[<img align="left" alt="wizzdom.xyz" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Wizzdom | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Wizzdom | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+- My website/blog: [WIZZDOM.xyz][website]  
+- Twitter: [ *(really boring)*][twitter]  
+- LinkedIn [ *(Even more boring)*][linkedin]  
+- Discord: WIZZDOM#6902
+- Matrix: @wizzdom:matrix.org
 
-<br />
-<br />
-
+[![wizzdom's GitHub stats](https://github-readme-stats.vercel.app/api?username=wizzdom&show_icons=true&theme=dark&hide_border=true&hide=prs,contribs&count_private=true)](https://github.com/wizzdom)
 ---
 
-[blank]: #
 [website]: https://www.wizzdom.xyz
 [twitter]: https://twitter.com/Wizzdom03
 [linkedin]: https://www.linkedin.com/in/dominic-connor-16096b194/
