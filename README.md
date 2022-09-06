@@ -1,4 +1,5 @@
 ### Hi there, I'm Dom - aka [wizzdom][website] 👋
+*pronounced Wizz-Dom (ウィズダム)*
 
 - 🐃🐧 GNU/Linux Enjoyer 
   - *I use Arch btw (˵ ͡° ͜ʖ ͡°˵)*
