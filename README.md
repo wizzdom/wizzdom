@@ -1,20 +1,23 @@
 ### Hi there, I'm Dom - aka [wizzdom][website] 👋
 
-- 🐃🐧 GNU/Linux Enjoyer
-- 🌱 Currently learning everything 🤣
-- 🕘 UTC 0/UTC +1
+- 🐃🐧 GNU/Linux Enjoyer 
+  - *I use Arch btw (˵ ͡° ͜ʖ ͡°˵)*
+- 🌱 Currently learning all the things 🤣
+- 🕘 `UTC 0/UTC +1`
 
 ### Connect with me:
 
-- My website/blog: [WIZZDOM.xyz][website]  
-- Twitter: [ *(really boring)*][twitter]  
-- LinkedIn [ *(Even more boring)*][linkedin]  
-- Discord: WIZZDOM#6902
-- Matrix: @wizzdom:matrix.org
+- **My website/blog**: [wizzdom.xyz][website]  
+- **Twitter**: [ *(really boring)*][twitter]  
+- **Discord**: [WIZZDOM#6902][discord]
+- **Matrix**: [wizzdom:matrix.org][matrix]
 
-[![wizzdom's GitHub stats](https://github-readme-stats.vercel.app/api?username=wizzdom&show_icons=true&theme=dark&hide_border=true&hide=prs,contribs&count_private=true)](https://github.com/wizzdom)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=wizzdom&show_icons=true&theme=dark&hide_border=true&hide=prs,contribs&count_private=true)](https://github.com/wizzdom)
 ---
 
-[website]: https://www.wizzdom.xyz
+[website]: https://wizzdom.xyz
 [twitter]: https://twitter.com/Wizzdom03
 [linkedin]: https://www.linkedin.com/in/dominic-connor-16096b194/
+[discord]: https://discord.com/users/277551134154162177
+[matrix]: https://matrix.to/#/@wizzdom:matrix.org
+[gitlab]: https://gitlab.com/wizzdom
