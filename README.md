@@ -12,7 +12,7 @@
 - **Matrix**: [wizzdom:matrix.org][matrix]
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=wizzdom&show_icons=true&theme=dark&hide_border=true&hide=prs,contribs&count_private=true)](https://github.com/wizzdom)
----
+
 
 [website]: https://wizzdom.xyz
 [twitter]: https://twitter.com/Wizzdom03
