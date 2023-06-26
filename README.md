@@ -2,18 +2,17 @@
 - 🐃🐧 GNU/Linux Enjoyer 
   - *I use Arch btw (˵ ͡° ͜ʖ ͡°˵)*
 - CS student @ DCU
+- SysAdmin @ Redbrick DCU
 - 🕘 `UTC 0/UTC +1`
 
 ### Connect with me:
 
 - **My website/blog**: [wizzdom.xyz][website]  
-- **Twitter**: [ *(really boring)*][twitter]  
 - **Discord**: [WIZZDOM#6902][discord]
 - **Matrix**: [wizzdom:matrix.org][matrix]
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=wizzdom&show_icons=true&theme=dark&hide_border=true&hide=prs,contribs&count_private=true)](https://github.com/wizzdom)
 ---
-![Based Pic](./ABSOLUTELY_PROPRIETARY.jpg)
 
 [website]: https://wizzdom.xyz
 [twitter]: https://twitter.com/Wizzdom03
