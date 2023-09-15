@@ -1,4 +1,25 @@
-### Hi there, I'm Dom - aka [wizzdom][website] 👋
+<h1 align="center">Hi , I'm Dominic <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Student;Developer;Designer;Technician;Software+Engineer&font=Fira%20Code&center=true&width=380&height=50"/></a>
+</p>
+
+<p align="center"> 
+	<img src="https://komarev.com/ghpvc/?username=wizzdom&label=Profile%20views&color=0047AB&style=plastic?" alt="wizzdom" height=25px, width=160px/> 
+	<!---
+		<a href = "https://commits.top/egypt.html" target="_blank">
+			<img src="https://aktive.tk/egypt/7oSkaaa?color=red" alt="Most Active Users" target="_blank" height=25px, width=250px/> 
+		</a>
+	-->
+
+</p>
+
+
+
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 250px></picture>
+
+<br>
+
 - 🐃🐧 GNU/Linux Enjoyer 
   - *I use Arch btw (˵ ͡° ͜ʖ ͡°˵)*
 - CS student @ DCU
